@@ -1,30 +1,44 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: May 9, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Played around with visual design and made three bouncing balls. Cubic-bezier function looks nice..
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 1. https://codepen.io/stefanmdvs/details/PoPRjay
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: May 10, 2020 
+**Today's Progress**: Made a moon and stars shine in the sky;
+**Link to work:**
+https://codepen.io/stefanmdvs/pen/BaorxEK
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 3: May 11, 2020 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Went through applied accesibility, responsive design, CSS flexbox and grid layout.
+### Day 4: May 12, 2020
+** Today's progress: Today I've been practicing CSS flexbox on a couple of challenges.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 5: May 13, 2020 
 
+**Today's Progress**: Spent a lot of time on a navbar, didn't expect that. 
 
-### Day 1: June 27, Monday
+### Day 6: May 14, 2020 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Started working on my portfolio webpage.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 7: May 15, 2020 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: I've learnt how to import an image from Dropbox into Codepen. Changing dl to 1 did the trick.
+**Thoughts:** I spent a lot of time trying to figure out how to import a picture of my projects to the project tile. Also struggled to make the background of a div keep it's color and content when resizing a window;
+**Link to work:** https://codepen.io/stefanmdvs/details/QWjVOmq
+
+### Day 8: May 16, 2020 
+
+**Today's Progress**: Discovered and used fontawesome in Portfolio project. Also I've submitted the last task in the responsive design section.
+**Thoughts**: I spent time on figuring out why I couldn't get my section to cover 100% of the viewport. Setting margin and padding to 0 plus adding 100vh did the trick.
+
+### Day 9: May 16, 2020 
+
+**Today's Progress**: I updated the log, got my certification for responsive web design and started the JS section.
+ceva acolo
