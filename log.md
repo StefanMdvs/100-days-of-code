@@ -38,7 +38,15 @@ https://codepen.io/stefanmdvs/pen/BaorxEK
 **Today's Progress**: Discovered and used fontawesome in Portfolio project. Also I've submitted the last task in the responsive design section.
 **Thoughts**: I spent time on figuring out why I couldn't get my section to cover 100% of the viewport. Setting margin and padding to 0 plus adding 100vh did the trick.
 
-### Day 9: May 16, 2020 
+### Day 9: May 17, 2020 
 
 **Today's Progress**: I updated the log, got my certification for responsive web design and started the JS section.
-ceva acolo
+
+### Day 10: May 18, 2020 
+
+**Today's Progress**: Studied JS and got puzzled about recursion. I think I got it in the end;
+
+### Day 11: May 19, 2020 
+
+**Today's Progress**: Went through ES6 and then I took on the challenge to create a mobile banking app. In about an hour I made it so far. 
+**Link to work**: https://twitter.com/StefanMedves/status/1262881907240468480
