@@ -50,3 +50,9 @@ https://codepen.io/stefanmdvs/pen/BaorxEK
 
 **Today's Progress**: Went through ES6 and then I took on the challenge to create a mobile banking app. In about an hour I made it so far. 
 **Link to work**: https://twitter.com/StefanMedves/status/1262881907240468480
+
+### Day 12: May 20, 2020 
+
+**Today's Progress**: I've been adding a bit more CSS and HTML to this mobile banking app, sure it's far from perfect but I'm happy I've practiced Flexbox. 
+**Link to work**: https://twitter.com/StefanMedves/status/1263224081035546626
+
